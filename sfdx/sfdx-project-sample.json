@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Sample",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
+    }
+  ],
+  "name": "sfdx",
+  "namespace": "<YOUR_NAMESPACE>",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "54.0",
+  "packageAliases": {
+ }
+}
