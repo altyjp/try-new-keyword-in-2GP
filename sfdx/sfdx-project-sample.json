@@ -4,9 +4,9 @@
           "path": "force-app",
           "default": true,
           "package": "Sample",
-          "versionName": "ver 0.3",
-          "ancestorVersion": "HIGHEST",
-          "versionNumber": "0.3.0.NEXT"
+          "versionName": "ver 0.4",
+          "ancestorVersion": "NONE",
+          "versionNumber": "0.4.0.NEXT"
       }
   ],
   "name": "sfdx",
