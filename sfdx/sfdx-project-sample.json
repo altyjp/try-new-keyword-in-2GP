@@ -13,6 +13,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "54.0",
   "packageAliases": {
-    "Sample": "ID"
+    "Sample": "ID",
+    "Sample@0.1.0-1": "ID"
 }
 }
