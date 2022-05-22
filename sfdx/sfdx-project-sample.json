@@ -1,19 +1,21 @@
 {
   "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true,
-      "package": "Sample",
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT"
-    }
+      {
+          "path": "force-app",
+          "default": true,
+          "package": "Sample",
+          "versionName": "ver 0.2",
+          "ancestorVersion" : "0.1.0",
+          "versionNumber": "0.2.0.NEXT"
+      }
   ],
   "name": "sfdx",
-  "namespace": "<YOUR_NAMESPACE>",
+  "namespace": "NAME_SPACE",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "54.0",
   "packageAliases": {
-    "Sample": "ID",
-    "Sample@0.1.0-1": "ID"
-}
+      "Sample": "ID",
+      "Sample@0.1.0-1": "ID",
+      "Sample@0.2.0-1": "ID"
+  }
 }
